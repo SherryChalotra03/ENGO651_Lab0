@@ -23,5 +23,5 @@ This project is a personal portfolio website designed to showcase my background,
   - Contains a table for structured presentation of my work history, including columns for roles, organizations, and durations.
 
 **----- Additional Notes -----**
-  The website was created using VS Code, ensuring a modern development environment.
+  - The website was created using VS Code, ensuring a modern development environment.
 
