@@ -9,7 +9,7 @@ This project is a personal portfolio website designed to showcase my background,
   - Provides an introduction to who I am, including a brief personal bio and links to navigate to other pages on the website.
   - Features an image
 
-**2. Research Publications (research-papers.html/ publications.html):**
+**2. Research Publications (research-papers.html):**
 
   - Lists research papers, articles, or publications I have authored or co-authored
 
