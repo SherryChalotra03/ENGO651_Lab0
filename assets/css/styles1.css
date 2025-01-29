@@ -1,0 +1,64 @@
+body{
+    background-color: #FAF9F6;
+}
+.navbar{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-top: 40px;
+}
+.text-justify {
+    text-align: justify;
+  }
+
+/* from scss starts */
+
+/*a{
+    color: #007bff !important;
+}
+a:hover{
+    color: #004a99 !important;
+}
+a:visited{
+    color: #6839A6 !important;
+}
+h1.my-name{
+    font-size: 42px;
+    color: #1F5FCF;
+}*/
+
+/* from scss ends */
+
+
+.my-name{
+    font-size: 42px;
+}
+
+.nav-item.active a{
+    text-decoration: underline;
+}
+
+#profile-image{
+    border-radius: 15px;
+    box-shadow: 10px 10px 26px 0px rgba(0, 0, 0, 0.21);
+}
+.no-margin-bottom{
+    margin-bottom: 0;
+}
+.work-experience-table thead tr th{
+    padding: 5px;
+    background-color: lightgray;
+    border: 1px solid;
+}
+.work-experience-table tbody tr td{
+    padding: 10px;
+    border: 1px solid;
+}
+
+
+@media (min-width : 320px) and (max-width : 479px) {
+
+    .my-name{
+        font-size: 32px;
+    }
+
+}

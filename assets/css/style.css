@@ -1,0 +1,32 @@
+body {
+  background-color: #FAF9F6;
+}
+
+.navbar {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-top: 40px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+a {
+  color: #007bff;
+}
+a:hover {
+  color: #004a99 !important;
+  cursor: pointer;
+}
+a:visited {
+  color: #6839A6 !important;
+}
+
+h1, .my-name {
+  color: #1F5FCF;
+}
+
+.my-name {
+  font-size: 42px;
+}/*# sourceMappingURL=style.css.map */

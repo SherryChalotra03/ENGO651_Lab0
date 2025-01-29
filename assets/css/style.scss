@@ -1,0 +1,42 @@
+body{
+  background-color: #FAF9F6;
+}
+.navbar{
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-top: 40px;
+}
+.text-justify {
+  text-align: justify;
+}
+
+$color: #007bff;
+$hover-color: #004a99;
+$visited-color: #6839A6;
+
+$heading-color: #1F5FCF;
+
+// Parent class with nesting
+a {
+  color: $color;
+  
+  // Nested styles
+  &:hover {
+    color: $hover-color !important;
+    cursor: pointer;
+  }
+  &:visited {
+    color: $visited-color !important;
+  }
+}
+
+h1{ 
+    color: $heading-color;
+}
+
+// SCSS Inheritance using @extend
+.my-name {
+  @extend h1; // Inherit styles from h1
+  font-size: 42px;
+}
+
