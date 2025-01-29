@@ -22,6 +22,6 @@ This project is a personal portfolio website designed to showcase my background,
   - Outlines my professional experience, including roles, companies, and job responsibilities.
   - Contains a table for structured presentation of my work history, including columns for roles, organizations, and durations.
 
-**----- Additional Notes -----**
+**Additional Notes**
   - The website was created using VS Code, ensuring a modern development environment.
 
